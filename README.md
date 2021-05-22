@@ -3,7 +3,7 @@
 
 # Certificate Generated Example
 
-![Certificate Example](certificateExample.pdf)
+You can find an example of the generated pdf [here](certificateExample.pdf)
 
 # Serverless - AWS Node.js Typescript
 
