@@ -20,7 +20,7 @@ For detailed instructions, please refer to the [documentation](https://www.serve
 
 ### Helpers
 
-- Check if JRE are installed in you computer with `java -version`
+- You need to be JRE installed, check it using `java -version`
 
 ```
 ❯ java --version
