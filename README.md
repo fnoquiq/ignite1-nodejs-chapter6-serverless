@@ -1,6 +1,9 @@
 <h2 align="center">Ignite - Chapter 6 - Serverless 🚀</h2>
 <h5 align="center"><a href="https://rocketseat.com.br/" >Rocketseat</a> - Trilha Node js</h5>
 
+# Certificate Generated Example
+
+![GitHub Logo](/certificate.pdf)
 # Serverless - AWS Node.js Typescript
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
