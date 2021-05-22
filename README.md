@@ -3,7 +3,7 @@
 
 # Certificate Generated Example
 
-![Certificate Example](.github/certificate.pdf)
+![Certificate Example](certificateExample.pdf)
 
 # Serverless - AWS Node.js Typescript
 
